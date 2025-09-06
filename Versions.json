@@ -1,6 +1,7 @@
 {
-	"CurrentVersion" : "0.8.0",
-	"what's_new0": "🌑 'Lost in the Darkness' Levels: play with limited visibility!;🎨 New Icons: improved inventory for better usability.;🌄 Updated Backgrounds: enjoy more immersive visuals!",
-	"what's_new1": "🌑 Рівні 'Загублений у Темряві': спробуйте грати в умовах обмеженої видимості!;🎨 Нові іконки: покращення інвентаря для зручності.;🌄 Оновлені фони: ще більше атмосфери для гри!",
-	"table_height": 1200 
+	"CurrentVersion" : "0.8.1",
+	"what's_new0": "⚙️ Technical update to keep the app running smoothly.;✅ No new changes or features.",
+	"what's_new1": "⚙️ Технічне оновлення для стабільної роботи.;✅ Нових змін чи функцій немає.",
+	"table_height": 800
 }
+
